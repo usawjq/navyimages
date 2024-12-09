@@ -1,12 +1,15 @@
 [
   {
-    "name": "Example Name",
-    "imgurl": "https://example.com/image.jpg",
-    "furl": "https://example.com/file1.pdf",
-    "nurl": "https://example.com/file2.docx",
-    "surl": "https://example.com/file3.zip",
-    "ffile": "file1.pdf",
-    "nfile": "file2.docx",
-    "sfile": "file3.zip"
+    "name": "RedCannonLine",
+    "filePath": "../SPR/zh-hk",
+    "fileName": "Interface.spr",
+    "fileUrl": "https://cdn.jsdelivr.net/gh/usawjq/navyimages@1.0/zh-hk/Interface.spr",
+    "imgUrl": "",
+    "furl": "",
+    "nUrl": "",
+    "sUrl": "",
+    "fFile": "file1.pdf",
+    "nFile": "",
+    "sFile": ""
   }
 ]
